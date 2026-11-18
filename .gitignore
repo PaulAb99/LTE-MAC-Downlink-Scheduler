@@ -1,0 +1,15 @@
+out/
+results/
+assignments
+Makefile
+*_m.cc
+*_m.h
+metrics.csv
+alloc_test
+*.o
+*.vec
+*.sca
+*.vci
+*.png
+__pycache__/
+LTE-MAC-Downlink-Scheduler/
